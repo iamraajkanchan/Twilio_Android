@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Twilio_Android</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="send_url">http://www.google.com</string>
+</resources>
